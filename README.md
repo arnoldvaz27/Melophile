@@ -8,7 +8,7 @@ Melophile is an open source project where people can contribute as per their kno
 ![Thank you](https://img.shields.io/badge/Arnold%20Vaz-Thank%20you%20for%20visiting%20this%20open%20source%20project%20repository-red)
 
 ## About ![About](https://img.shields.io/badge/Melophile-About-orange)
-This is an Android Application that display's and play all the music files from the device's storage. Melophile only displays song that are already downloaded in the device storage, it is not connected to any external internet API's for fetching song.
+This is an Android Application that displays and plays all the music files from the device's storage. Melophile only displays song that are already downloaded in the device storage, it is not connected to any external internet API's for fetching song.
 
 ## Features ![Features](https://img.shields.io/badge/Melophile-Features-blue)
 
